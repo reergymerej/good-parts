@@ -1,0 +1,2486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getI",
+				"getInfoBarItemConfig"
+			],
+			[
+				"toCon",
+				"toContainObjectLike"
+			],
+			[
+				"getIn",
+				"getInfoBarItem"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"getS",
+				"getSelfManagedControls"
+			],
+			[
+				"getMa",
+				"getManagedControls"
+			],
+			[
+				"expe",
+				"expect"
+			],
+			[
+				"sho",
+				"showFilterPanel"
+			],
+			[
+				"creat",
+				"createInfoBar"
+			],
+			[
+				"Sour",
+				"SourceInstanceId"
+			],
+			[
+				"be",
+				"beforeEach"
+			],
+			[
+				"expec",
+				"expected"
+			],
+			[
+				"Wug",
+				"WugletDate"
+			],
+			[
+				"normaS",
+				"normalizedSource"
+			],
+			[
+				"normali",
+				"normalizeSourceSelection"
+			],
+			[
+				"getMo",
+				"getModifier"
+			],
+			[
+				"normS",
+				"normalizeSourceSelection"
+			],
+			[
+				"norm",
+				"normalizeSelection"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"nomr",
+				"normalizedSource"
+			],
+			[
+				"configW",
+				"configWindow"
+			],
+			[
+				"rawSou",
+				"rawSourceValue"
+			],
+			[
+				"filterS",
+				"filtersCollection"
+			],
+			[
+				"date",
+				"dateRangeFilter"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"De",
+				"DeviceGrp"
+			],
+			[
+				"sourT",
+				"sourceTypes"
+			],
+			[
+				"wuglet",
+				"wugletConfig2"
+			],
+			[
+				"SourT",
+				"SourceTypeId"
+			],
+			[
+				"filter",
+				"filtersCollection"
+			],
+			[
+				"getM",
+				"getManagedControls"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"wugle",
+				"wugletConfig"
+			],
+			[
+				"manage",
+				"managedControls"
+			],
+			[
+				"dash",
+				"dashboard"
+			],
+			[
+				"man",
+				"managedControls"
+			],
+			[
+				"maxi",
+				"maximizeHidden"
+			],
+			[
+				"getMe",
+				"getMenuItems"
+			],
+			[
+				"o",
+				"ok_cancel_dialog"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"setIcon",
+				"setIconCls"
+			],
+			[
+				"getN",
+				"getNavIndexStore"
+			],
+			[
+				"getFa",
+				"getAsFavorite"
+			],
+			[
+				"favo",
+				"favoritePlugin"
+			],
+			[
+				"Favo",
+				"Favorite"
+			],
+			[
+				"fav",
+				"favorite"
+			],
+			[
+				"fa",
+				"favorite"
+			],
+			[
+				"list",
+				"listener"
+			],
+			[
+				"toHave",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"toH",
+				"toHaveBeenCalledWith"
+			],
+			[
+				"not",
+				"notifyStoresOfFavoriteChange"
+			],
+			[
+				"cha",
+				"changedFields"
+			],
+			[
+				"Navi",
+				"NavigationIndex"
+			],
+			[
+				"un",
+				"uniqueId2"
+			],
+			[
+				"ui",
+				"uniqueId1"
+			],
+			[
+				"chi",
+				"childNode"
+			],
+			[
+				"deco",
+				"decorateNode"
+			],
+			[
+				"tre",
+				"treeitem-bold"
+			],
+			[
+				"even",
+				"eventCount"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"exa",
+				"exampleModel"
+			],
+			[
+				"sour",
+				"sourceTypes"
+			],
+			[
+				"sourc",
+				"source"
+			],
+			[
+				"sourceTy",
+				"sourceType"
+			],
+			[
+				"Plug",
+				"PluginName"
+			],
+			[
+				"changeF",
+				"changedField"
+			],
+			[
+				"sourceT",
+				"SourceType"
+			],
+			[
+				"sourTy",
+				"sourceTypes"
+			],
+			[
+				"Source",
+				"SourceType"
+			],
+			[
+				"listener",
+				"listeners"
+			],
+			[
+				"val",
+				"validation"
+			],
+			[
+				"valid",
+				"validations"
+			],
+			[
+				"Da",
+				"DashboardId"
+			],
+			[
+				"confi",
+				"config"
+			],
+			[
+				"getRe",
+				"getRepeaterInstanceConfig"
+			],
+			[
+				"contrl",
+				"controller"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"Rep",
+				"RepeaterExampleCtrl"
+			],
+			[
+				"Repe",
+				"RepeaterExampleView"
+			],
+			[
+				"upda",
+				"updateModel"
+			],
+			[
+				"buis",
+				"businessHoursId"
+			],
+			[
+				"loadR",
+				"loadRecord"
+			],
+			[
+				"bus",
+				"businessHoursId"
+			],
+			[
+				"loa",
+				"loadingView"
+			],
+			[
+				"load",
+				"loadRecordIntoView"
+			],
+			[
+				"defau",
+				"defaultValue"
+			],
+			[
+				"round",
+				"roundDateTime"
+			],
+			[
+				"busine",
+				"businessHoursId"
+			],
+			[
+				"lad",
+				"loadRecordIntoView"
+			],
+			[
+				"chan",
+				"changeDate"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"bushr2",
+				"bushours2"
+			],
+			[
+				"BusH",
+				"BusinessHours"
+			],
+			[
+				"inne",
+				"innerPanel"
+			],
+			[
+				"roo",
+				"rootListeners"
+			],
+			[
+				"eventbu",
+				"eventbus"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"dele",
+				"deleteMe"
+			],
+			[
+				"getInd",
+				"getIndexByShowpageUrl"
+			],
+			[
+				"removeB",
+				"removeByIndex"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"Bus",
+				"BusinessHoursController"
+			],
+			[
+				"busi",
+				"business-hours-view"
+			],
+			[
+				"dater",
+				"daterange"
+			],
+			[
+				"fil",
+				"filtersCollection"
+			],
+			[
+				"dbSou",
+				"dbSource"
+			],
+			[
+				"dbS",
+				"dbSource"
+			],
+			[
+				"compA",
+				"comparisonFn"
+			],
+			[
+				"chage",
+				"changedFilters"
+			],
+			[
+				"das",
+				"dashboardFilters"
+			],
+			[
+				"dashbofil",
+				"dashboardFilters"
+			],
+			[
+				"filCo",
+				"filtersCollection"
+			],
+			[
+				"norma",
+				"normalizeSourceSelection"
+			],
+			[
+				"tool",
+				"toolbar"
+			],
+			[
+				"changeV",
+				"changedValues"
+			],
+			[
+				"filterT",
+				"filterTypes"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"getFi",
+				"getFilterNames"
+			],
+			[
+				"liste",
+				"listenTo"
+			],
+			[
+				"SourceInst",
+				"SourceInstanceName"
+			],
+			[
+				"setV",
+				"setValues"
+			],
+			[
+				"matc",
+				"matchedFilters"
+			],
+			[
+				"owF",
+				"ownFilters"
+			],
+			[
+				"mat",
+				"matchedFilters"
+			],
+			[
+				"obser",
+				"observedCollection"
+			],
+			[
+				"Bet",
+				"better-gauge"
+			],
+			[
+				"al",
+				"align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/controller/Wuglet.js",
+			"settings":
+			{
+				"buffer_size": 18883,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/Wuglet.js",
+			"settings":
+			{
+				"buffer_size": 51253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jgreer.IPSWITCH_M/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/plugins/Reports/MonitorsApplied.js",
+			"settings":
+			{
+				"buffer_size": 13021,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/Wuglet.js",
+			"settings":
+			{
+				"buffer_size": 17096,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jgreer.IPSWITCH_M/AppData/Roaming/npm/node-inspector.cmd",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglet/InfoBar.js",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/node.sublime-build",
+	"command_palette":
+	{
+		"height": 73.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"jasa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"jvas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ad",
+				"Project: Add Folder"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mdghp",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mdghb",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mdg",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"mdghpr",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"wro",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mdpr",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toglin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lintaer",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"enablint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"subllint",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"subllin sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"subllin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"subllintog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lin mod",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"subllinen",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lint mod",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"lintmode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sublintset",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"subl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublinen",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"sublind",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublindis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"sublinenlin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"subllin ena",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"subllintsetuse",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subllintersettin",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mdp",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"rege",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"enal",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"tog",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint di",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"choose",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"lint mo",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"toggle lin",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"setsy: te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"jva",
+				"Set Syntax: Java"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"JAVAS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Synt pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"perforce: lo",
+				"Perforce: Login"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 699.0
+	},
+	"console":
+	{
+		"height": 243.0,
+		"history":
+		[
+			"ls",
+			"yo",
+			"echo \"yo\";",
+			"echo \"yo\"",
+			"echo yo",
+			"echo 'yo'",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jgreer.IPSWITCH_M/Desktop/good-parts/test.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/Wuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/Dashboard.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/AspReport.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/app.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/flowmonitor/font-awesome/less/core.less",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/Nm/dialog/Copy of dialog.enh.js",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-notes/code standards.md",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglets/List.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/grid/WugletGrid.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/util/Print.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/Prompt.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/MonitorsApplied.html",
+		"/C/sencha-cmd/my-workspace/ext/src/container/Monitor.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/models/Model.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/model/NavigationItem.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/controller/Dashboard.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/controller/Wuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/SpecRunner.html",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-notes/TODO.txt",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/charts/plugins/test.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/TitleSource.html",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/Temp/testEnhancement.js",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-snippets/toolbox.js",
+		"/C/sencha-cmd/my-workspace/ext/src/ShadowPool.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/session.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/flowmonitor/plugins/nbarAndqos.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/Wuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/util/WugDialog.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/recorder/Recorder.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/flowmonitor/developer/plugins/wugletArchive.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/developer/plugins/wugletArchive.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/flowmonitor/app.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/jshint-result.txt",
+		"/C/Users/jgreer.IPSWITCH_M/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/jgreer.IPSWITCH_M/Desktop/test.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/%user%",
+		"/C/Work/Target/html/NM.UI/Docs/docs.config",
+		"/C/sencha-cmd/my-workspace/theme-demo-app/.sencha/app/codegen.json",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/.jshintrc",
+		"/C/Users/jgreer.IPSWITCH_M/Desktop/barModule.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/.jshintignore",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/wuglet/maximize-wuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/wuglet/SingleValueWuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/events/pageRefresh.js",
+		"/C/Work/Target/html/NM.UI/Docs/examples.json",
+		"/C/sencha-cmd/my-workspace/ext/ext-all.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/scripts/extapp.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/form/WugletFilterPanel.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/DeviceStatus.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/mvc/4-model/model/ClickCount.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/whatsvirtual/model/managedelementmodel.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/models/Dashboard.js",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-snippets/model-basic.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/MenuOptionsUrl.html",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/message.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/dashboards/managed-controls.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/controller/WugletInfoBar.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglet/InfoBar.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglets/topDevicesByMemoryUse.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/WugletInfoBar.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/whatsvirtual/components/wuglets/whatsvirtualdualvaluewuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/charts/components/SingleValueWuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/models/DashboardWuglet.js",
+		"/C/Work/nm/DB_Automation/Wuglet_Registration/Platform/Wuglet_Platform.csv",
+		"/C/Work/nm/DB_Automation/Wuglet_Registration/Platform/WugletTemplate_Platform.csv",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/developer/plugins/Device/DeviceCustomLinks.js",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-notes/Wuglet Registration.md",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/WebUserActivity.html",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/whatsvirtual/developer/wugletArchive.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/wuglet/wugletDateRange.js",
+		"/C/sencha-cmd/my-workspace/build/temp/production/ThemeDemoApp/sass/.sass-cache/44ef4a0a4112bcc9a06d9bedf2a77db99d8c9554/_utilities.scssc",
+		"/C/sencha-cmd/my-workspace/build/temp/production/ThemeDemoApp/sass/.sass-cache/99495e2e41ebac2b4ea0267b1277737b83765b01/_background-clip.scssc",
+		"/C/sencha-cmd/my-workspace/build/temp/production/ThemeDemoApp/sass/.sass-cache/99495e2e41ebac2b4ea0267b1277737b83765b01/_background-origin.scssc",
+		"/C/sencha-cmd/my-workspace/packages/my-custom-theme/build/.sass-cache/d5380ea001ae2a9ed65e5a49a7b7759c144177e9/_base.scssc",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/developer/jgreer/_boilerplate.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/form/DBConfigurePanel.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/DashboardLayout.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/dashboards/dashboard-filters.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/developer/plugins/ProblemAreas/DownDevices.js",
+		"/C/sencha-cmd/my-workspace/theme-demo-app/.sencha/app/sencha.cfg",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-notes/Dashboard Views.txt",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/deviceActions.html",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/store/Favorites.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/charts/app.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/charts/scripts/d3/41fece5a7d/d3.v2.min.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/ext-all.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/Common/test/test.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/mvc/repeater/controller/Repeater.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/whatsvirtual/components/d3.min.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/d3.min.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/grid/FiltersFeature.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/GroupTabPanel.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/GMapPanel.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/BoxReorderer.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/ajax/XmlSimlet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/util/optionscollection.js",
+		"/C/Work/NMS/Main/Source/NM.UI/Scripts/ext/4.2.1.883/examples/ux/Spotlight.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/d3.v2.min.html",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/charts/css/d3.css",
+		"/C/sencha-cmd/my-workspace/ext/src/grid/RowEditor.js",
+		"/C/Users/jgreer.IPSWITCH_M/Documents/dev-notes/regex.txt",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/NavigationIndex.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/util/Standards.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/Standards.html",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/APM/plugins/status.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/SnmpTrap.html",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/examples/grids/multiselectionbehavior.js",
+		"/C/sencha-cmd/my-workspace/ext/locale/ext-lang-pl.js",
+		"/C/sencha-cmd/my-workspace/ext/src/ux/RowExpander.js",
+		"/C/sencha-cmd/my-workspace/ext/src/perf/Accumulator.js",
+		"/C/sencha-cmd/my-workspace/ext/packages/ext-theme-neutral/sass/src/FocusManager.scss",
+		"/C/sencha-cmd/my-workspace/ext/packages/ext-theme-base/sass/example/manifest.js",
+		"/C/sencha-cmd/my-workspace/ext/packages/ext-theme-access/sass/var/menu/Menu.scss",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/whatsvirtual/store/managedelementstore.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/MultiAbstractSummary.html",
+		"/C/Work/Target/html/NM.UI/Docs/html/output/Nm.core.models.Model.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/model/DateRange.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/.jshintrc",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/plugins/Generic.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/plugins/PerfMonitor.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/plugins/SelectInterface.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglets/plugins/SeriesSelector.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglets/plugins/GroupOrDeviceOptions.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/developer/plugins/listWuglet.js",
+		"/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/mobile/listLogs.js",
+		"/C/Work/Target/html/NM.UI/Docs/html/source/LiveSSGDisk.html",
+		"/C/sencha-cmd/my-workspace/ext/src/chart/LegendItem.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\NMS\\Main\\Source\\NM.UI",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm	",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\Wug.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\Wug.UI\\Scripts\\Wug",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\sencha-cmd\\my-workspace",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\voip",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\tests",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\controller",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\tests\\spec\\core\\controller",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\7-controller-events",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\6-extending-controllers",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\6-inheriting-controllers",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\5-nested-views",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\4-model",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\3-changing-view",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\2-binding",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\examples\\mvc\\1-organization",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Users\\jgreer.IPSWITCH_M\\Desktop\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\tests",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\tests, C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\tests",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\flowmonitor\\components",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\flowmonitor",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\flowmonitor",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\whatsvirtual",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\Scripts\\ext\\portal",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\Scripts\\ext\\portal",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\developer",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\form",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\Reports",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\Wug.UI.Asp\\Reports\\Workspace",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\dashboard",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\dashboard",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\dashboard",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core\\components\\util\\sourceselector",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\developer\\plugins",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\Scripts\\ext\\portal",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\NMS\\NM.UI\\Scripts\\ext\\portal",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\WhatsUp.UI\\Nm\\core",
+			"C:\\Users\\jgreer.IPSWITCH_M\\Documents\\dev-notes",
+			"C:\\Work\\WUG\\Main\\Source\\Web\\Wug.UI.Asp\\Reports"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"getInfoBarItem",
+			"managed",
+			"getManagedControls",
+			"selfManaged",
+			"Managed",
+			"managed",
+			"initComponent",
+			"getManagedControls",
+			"ctrl.component",
+			"updateHeaderBarStatus",
+			"SourceTypeName",
+			"appmenu",
+			"serialize",
+			"Foo",
+			"tbarItems",
+			"dockedItems",
+			"tbarItems",
+			"refreshInfoBar",
+			"updateHeaderBarStatus",
+			"refreshInfoBar",
+			"updateHeaderBarStatus",
+			"refreshInfoBar",
+			"updateHeaderBarStatus",
+			"FORBIDDEN_ATTRS",
+			"forbiddenWugletTemplateAttributes",
+			"msg:",
+			"}",
+			":",
+			"\n",
+			",",
+			"* ",
+			"updateHeaderBarStatus",
+			"refreshInfoBar",
+			"updateHeaderBarStatus",
+			"sourceButton",
+			"sourcechanged",
+			"onInfoBarButtonClick",
+			"onSourceClick",
+			"showFilterPanel",
+			"showFilterMenu",
+			"on",
+			"tool",
+			":",
+			"Scripts/ext/4.2.1.883",
+			"Scripts/Common",
+			"d3.v2.min.js",
+			"add-favorite",
+			"useDateFilter",
+			"SourceTypeName",
+			"SourceTypeId",
+			"SourceTypeName",
+			"tbarItems",
+			"getToolbarItems",
+			"HelpUrl",
+			"createInfoBar",
+			"filtersCollection",
+			"controller",
+			"createInfoBar",
+			"wugletInfoBar",
+			"createInfoBar",
+			"(\\s+)if\\(",
+			"\\)\\{",
+			"function\\(",
+			"reportWidth",
+			"window.wuglet",
+			"dockedItems",
+			"iterateGlobalRefreshInterval",
+			" : function",
+			" :",
+			"function\\(",
+			"function(",
+			"tbarItems",
+			"dockedItems",
+			"getSelfManagedControls",
+			"controller.filtersCollection",
+			"tools",
+			"getFilterComponentConfigs",
+			"getFilterControlConfigs",
+			"souceType",
+			"wugletFilters",
+			"getManagedControlsValues",
+			"searchproviders",
+			"searchProviders",
+			"searchproviders",
+			"searchprovider",
+			"getSelfManagedControls",
+			"removeManaged",
+			"removeSelfManaged",
+			"NOT",
+			"getFilterControlConfigs",
+			"getSelfManagedControls",
+			"dashboard",
+			"http://www.youtube.com/watch?v=TuH2f9nVigs",
+			"normalizeSourceSelection",
+			"Nm.core.components.wuglets.List",
+			"Nm.whatsvirtual.components.wuglets.WhatsVirtualListWuglet",
+			"Nm.whatsvirtual.components.wuglets.HostWuglet",
+			"Virtual Machines CPU Utilization",
+			"Virtual Machines CPU Uit",
+			"Could not contact server",
+			"POST_REQUEST_TIMEOUT",
+			"expect",
+			"333",
+			"source",
+			"getSourceInstance",
+			"getModifier",
+			"getSourceInstance",
+			"getDashboard",
+			"normalizeSourceSelection: function (value, sourceType)",
+			"convertValueToObject",
+			"showFilterPanel",
+			"getFilteredSourceValue",
+			"getModifier",
+			"normalizeSourceSelection",
+			"setWugletDate",
+			"WugletDate",
+			"filtersCollection.getValue",
+			"getFilteredSourceValue",
+			"getSourceInstance",
+			"getDeviceGroupId",
+			"getSourceInstance",
+			"getFilteredSourceValue",
+			"normalizeSourceSelection",
+			"getFilteredSourceValue",
+			"\\t+\\n",
+			" +\\n",
+			"^\\s*(.*source.*):\\s*function",
+			": function"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"getInfoBarItemConfig",
+			"\\1if (",
+			") {",
+			"function (",
+			": function",
+			"function (",
+			"\\n",
+			"",
+			"\\n",
+			"config/filter panels",
+			"nm.lastServiceError",
+			"serviceError",
+			"serviceStartupError",
+			"showServiceError",
+			"h2.",
+			"h3.",
+			"SourceTypeName",
+			"SourceTypeId",
+			"SourceInstanceId",
+			"SourceInstanceName",
+			"SourceTypeId",
+			"HelpUrl",
+			"\\t",
+			";",
+			"-",
+			"'",
+			"!bulkIds.length",
+			".\\1",
+			".WrongFields",
+			".Result",
+			".params",
+			".paramsEdited",
+			".errorMsg",
+			".deleted",
+			".nodes",
+			".metadata",
+			".Schedule",
+			".Value",
+			".ParamName",
+			".hasInvalid",
+			".params",
+			".OperationType",
+			".deleted",
+			".OperationId",
+			".operations",
+			".nodes",
+			"raw.OperationId",
+			"raw.DeviceId",
+			"raw.metadata",
+			"metadata.ParameterMetadata",
+			"Schedule.Recurring",
+			"Schedule.Ageout",
+			"Schedule.StartTime",
+			"Schedule.Life",
+			"params.Schedule",
+			"schedule.Recurring",
+			"schedule.Ageout",
+			"schedule.StartTime",
+			"schedule.Life",
+			"param.DownValue",
+			"param.WarningValue",
+			"param.FieldKey",
+			"param.Text",
+			"param.DisplayName",
+			"param.IsImportant",
+			"param.ParamType",
+			"param.Value",
+			"param.ParamName",
+			"params.TargetPort",
+			"item.params",
+			"",
+			"decodeURIComponent",
+			"encodeURIComponent(",
+			"decodeURIComponent",
+			"loadData",
+			"decodeURIComponent",
+			"encodeURIComponent",
+			"updateAlarms",
+			" ",
+			"addFavoriteSticky",
+			"addToFavoritesStickies",
+			"getPagePluginUrl",
+			"7-controller-events",
+			"-controller-events",
+			"-extending-",
+			"mvc.6-inheriting-controllers",
+			"5-nested-views",
+			"4-model",
+			"3-changing-view.controller",
+			"2-binding",
+			"mvc.1-organization",
+			"DeviceGrp",
+			"Device",
+			"nm.sourceTypes",
+			"VM_Mach",
+			"VM_Host",
+			"nm.sourceTypes",
+			"FM_Src_Inter",
+			"\\1nm.sourceTypes.Device_DeviceGrp",
+			"\\1nm.sourceTypes.Device",
+			"\\1nm.sourceTypes.DeviceGrp",
+			"\\1\\1",
+			"Interface",
+			"FM_Source",
+			"VM_Mach",
+			"VM_Host",
+			"Device_DeviceGrp",
+			"DeviceGrp",
+			"Device",
+			"nm.sourceTypes",
+			"nm.sourceTypes.Device_DeviceGrp",
+			"nm.sourceTypes.DeviceGrp",
+			"nm.sourceTypes.Device",
+			"'",
+			"InjectedComponentCtrl",
+			"ModelBound",
+			"ModelBoundComponent",
+			"ModelBound",
+			"|\\1",
+			"\\n",
+			"'",
+			"DateTypeId",
+			"BusinessHoursId",
+			"nm-daterange-selector",
+			"jasmine-2.0.0",
+			"nm.core.model.DateRange",
+			"nm.core.controller.DateSelectorController",
+			"nm.core.controller.ComponentController"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/tests/spec/core/controller/Wuglet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17279,
+								17279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/dashboard/Wuglet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24242,
+								24242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15691.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/jgreer.IPSWITCH_M/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/plugins/Reports/MonitorsApplied.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8311,
+								8311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/controller/Wuglet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15748,
+								15748
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/jgreer.IPSWITCH_M/AppData/Roaming/npm/node-inspector.cmd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Work/WUG/Main/Source/Web/WhatsUp.UI/Nm/core/components/wuglet/InfoBar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.481040086674,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 388.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"project": "good-parts.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"core/dash/wugl",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"core/comp/wugl/in",
+				"Nm\\core\\components\\wuglet\\InfoBar.js"
+			],
+			[
+				"monitapplid",
+				"Nm\\core\\plugins\\Reports\\MonitorsApplied.js"
+			],
+			[
+				"core/contr/wuglet",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"test/spec/con/wugl",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"core/dash/wug",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"core/core/wugel",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"core/app",
+				"Nm\\core\\app.js"
+			],
+			[
+				"jshin",
+				"Nm\\jshint-result.txt"
+			],
+			[
+				"jshintre",
+				"Nm\\jshint-result.txt"
+			],
+			[
+				"jshint",
+				"Nm\\.jshintignore"
+			],
+			[
+				"examp/wugl/ma",
+				"Nm\\examples\\wuglet\\maximize-wuglet.js"
+			],
+			[
+				"core/com/dash",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"model/model",
+				"Nm\\core\\models\\Model.js"
+			],
+			[
+				"spec/wuglin",
+				"Nm\\tests\\spec\\core\\controller\\WugletInfoBar.js"
+			],
+			[
+				"core/contr/wuglein",
+				"Nm\\core\\controller\\WugletInfoBar.js"
+			],
+			[
+				"singlevalue",
+				"Nm\\charts\\components\\SingleValueWuglet.js"
+			],
+			[
+				"wuglear",
+				"Nm\\developer\\plugins\\wugletArchive.js"
+			],
+			[
+				"wugletar",
+				"Nm\\flowmonitor\\developer\\plugins\\wugletArchive.js"
+			],
+			[
+				"devicecustomlinks",
+				"Nm\\developer\\plugins\\Device\\DeviceCustomLinks.js"
+			],
+			[
+				"core/model/daw",
+				"Nm\\core\\models\\DashboardWuglet.js"
+			],
+			[
+				"singvaluwu",
+				"Nm\\charts\\components\\SingleValueWuglet.js"
+			],
+			[
+				"das/dash",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"wuglet/list",
+				"Nm\\core\\components\\wuglets\\List.js"
+			],
+			[
+				"d3.min",
+				"Nm\\whatsvirtual\\components\\d3.min.js"
+			],
+			[
+				"d3.v2.min",
+				"Nm\\charts\\scripts\\d3\\41fece5a7d\\d3.v2.min.js"
+			],
+			[
+				"repea",
+				"Nm\\examples\\mvc\\repeater\\controller\\Repeater.js"
+			],
+			[
+				"core/contr/navind",
+				"Nm\\core\\controller\\NavigationIndex.js"
+			],
+			[
+				"extapp",
+				"Nm\\core\\scripts\\extapp.js"
+			],
+			[
+				"standarjs",
+				"Nm\\core\\components\\util\\Standards.js"
+			],
+			[
+				"examp/manage",
+				"Nm\\examples\\dashboards\\managed-controls.js"
+			],
+			[
+				"core/model/dashwug",
+				"Nm\\core\\models\\DashboardWuglet.js"
+			],
+			[
+				"spec/wuglet",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				".js",
+				"Nm\\.jshintrc"
+			],
+			[
+				"list",
+				"Nm\\core\\components\\wuglets\\List.js"
+			],
+			[
+				"listwugl",
+				"Nm\\developer\\plugins\\listWuglet.js"
+			],
+			[
+				".jshin",
+				"Nm\\.jshintrc"
+			],
+			[
+				"model/dashw",
+				"Nm\\core\\models\\DashboardWuglet.js"
+			],
+			[
+				"model/wuglet",
+				"Nm\\core\\models\\Wuglet.js"
+			],
+			[
+				"wugletlibr",
+				"Nm\\core\\components\\dashboard\\WugletLibrary.js"
+			],
+			[
+				"impor",
+				"Nm\\tests\\importSpecs.js"
+			],
+			[
+				"core/contr/wugl",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"core/contr/wug",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"imporspe",
+				"Nm\\tests\\importSpecs.js"
+			],
+			[
+				"deviceattr",
+				"Nm\\developer\\plugins\\General\\DeviceAttributes.js"
+			],
+			[
+				"core/dash/wugh",
+				"Nm\\core\\components\\dashboard\\wughistorygraphreport.js"
+			],
+			[
+				"exta",
+				"Nm\\core\\scripts\\extapp.js"
+			],
+			[
+				"fulltrafficdetailsdashboard",
+				"Nm\\flowmonitor\\plugins\\fullTrafficDetailsDashboard.js"
+			],
+			[
+				"wugletfilterpajs",
+				"Nm\\core\\components\\form\\WugletFilterPanel.js"
+			],
+			[
+				"wugletconfigjs",
+				"Nm\\core\\components\\form\\WugletConfigurePanel.js"
+			],
+			[
+				"core/comp/dash/wug",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"test/spec/core/wu",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"core/dash/wuglet",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"test/core/contr/wug",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"last",
+				"Nm\\developer\\plugins\\CPUUtilization\\cpuUtilizationLastPolled.js"
+			],
+			[
+				"core/dash/das",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"grid/grid",
+				"Nm\\core\\components\\grid\\Grid.js"
+			],
+			[
+				"model/dashwugl",
+				"Nm\\core\\models\\DashboardWuglet.js"
+			],
+			[
+				"wugletconfpa",
+				"Nm\\core\\components\\form\\WugletConfigurePanel.js"
+			],
+			[
+				"test/core/cont/wug",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"core/contrl/wugl",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"util/filter",
+				"Nm\\core\\components\\util\\filter\\Filter.js"
+			],
+			[
+				"util/filter/col",
+				"Nm\\core\\components\\util\\filter\\Collection.js"
+			],
+			[
+				"core/util/filter",
+				"Nm\\core\\components\\util\\filter\\Filter.js"
+			],
+			[
+				"util/filter/",
+				"Nm\\core\\components\\util\\filter\\Filter.js"
+			],
+			[
+				"util/filter/co",
+				"Nm\\core\\components\\util\\filter\\Collection.js"
+			],
+			[
+				"util/filter/colle",
+				"Nm\\core\\components\\util\\filter\\Collection.js"
+			],
+			[
+				"profil/advanced-settings",
+				"Nm\\core\\plugins\\Discovery\\profile-wizard\\advanced-settings.js"
+			],
+			[
+				"jsint",
+				"Nm\\jshint-result.txt"
+			],
+			[
+				"model/dashboawug",
+				"Nm\\core\\models\\DashboardWuglet.js"
+			],
+			[
+				"form/conf",
+				"Nm\\core\\components\\form\\ConfigurePanel.js"
+			],
+			[
+				"dash/wuglet",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"test/core/con/wuglet",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"fmtrafficdirectionplugin",
+				"Nm\\flowmonitor\\components\\wuglets\\plugins\\fmtrafficdirectionplugin.js"
+			],
+			[
+				"for/dbconf",
+				"Nm\\core\\components\\form\\DBConfigurePanel.js"
+			],
+			[
+				"core/dash/dash",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"core/cont/dash",
+				"Nm\\core\\controller\\Dashboard.js"
+			],
+			[
+				"core/com/form/wugletfil",
+				"Nm\\core\\components\\form\\WugletFilterPanel.js"
+			],
+			[
+				"controll/wuglet",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"deviceprop",
+				"Nm\\core\\plugins\\deviceProperties.js"
+			],
+			[
+				"exap/wugl/ma",
+				"Nm\\examples\\wuglet\\maximize-wuglet.js"
+			],
+			[
+				"test/spec/contr/das",
+				"Nm\\tests\\spec\\core\\controller\\Dashboard.js"
+			],
+			[
+				"core/dash/da",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"core/control/dash",
+				"Nm\\core\\controller\\Dashboard.js"
+			],
+			[
+				"test/spec/wuglet",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"dash/wugl",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"exa/ma",
+				"Nm\\examples\\wuglet\\maximize-wuglet.js"
+			],
+			[
+				"form/wuglet",
+				"Nm\\core\\components\\form\\WugletConfigurePanel.js"
+			],
+			[
+				"core/comp/dash/wuglet",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"core/comp/dash/wugl",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"nm/core/comp/filter/coll",
+				"Nm\\core\\components\\util\\filter\\Collection.js"
+			],
+			[
+				"core/dash/dashb",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"core/contr/das",
+				"Nm\\core\\controller\\Dashboard.js"
+			],
+			[
+				"test/contr/das",
+				"Nm\\tests\\spec\\core\\controller\\Dashboard.js"
+			],
+			[
+				"test/core/contr/wugl",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"componwizard",
+				"Nm\\core\\components\\wizard\\Panel.js"
+			],
+			[
+				"spec/contr/wugl",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"examp/wuglet/ma",
+				"Nm\\examples\\wuglet\\maximize-wuglet.js"
+			],
+			[
+				"boi",
+				"Nm\\developer\\jgreer\\_boilerplate.js"
+			],
+			[
+				"jgreer/b",
+				"Nm\\developer\\jgreer\\_boilerplate.js"
+			],
+			[
+				"core/comp/dash/dash",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"model/dashbo",
+				"Nm\\core\\models\\Dashboard.js"
+			],
+			[
+				"char/table",
+				"Nm\\charts\\components\\chart\\Table.js"
+			],
+			[
+				"core/contro/pan",
+				"Nm\\core\\controller\\Panel.js"
+			],
+			[
+				"",
+				"Nm\\tests\\importSpecs.js"
+			],
+			[
+				"core/contr/dashb",
+				"Nm\\core\\controller\\Dashboard.js"
+			],
+			[
+				"ipmacaddressfindertool",
+				"Nm\\core\\plugins\\ipMacAddressFinderTool.js"
+			],
+			[
+				"dashboar/wuglet",
+				"Nm\\core\\components\\dashboard\\Wuglet.js"
+			],
+			[
+				"form/settins",
+				"Nm\\core\\components\\form\\SettingsPanel.js"
+			],
+			[
+				"form/config",
+				"Nm\\core\\components\\form\\ConfigurePanel.js"
+			],
+			[
+				"example/wugletma",
+				"Nm\\examples\\wuglet\\maximize-wuglet.js"
+			],
+			[
+				"test/spec/contr/wuglet",
+				"Nm\\tests\\spec\\core\\controller\\Wuglet.js"
+			],
+			[
+				"fmlogre",
+				"Nm\\flowmonitor\\components\\wuglets\\fmLogReport.js"
+			],
+			[
+				"model/dash",
+				"Nm\\core\\models\\Dashboard.js"
+			],
+			[
+				"portal",
+				"Scripts\\ext\\portal\\Portlet.js"
+			],
+			[
+				"jgreer/wugl",
+				"Nm\\developer\\jgreer\\wuglet.js"
+			],
+			[
+				"comp/dash",
+				"Nm\\core\\components\\dashboard\\Dashboard.js"
+			],
+			[
+				"model/dashb",
+				"Nm\\core\\models\\Dashboard.js"
+			],
+			[
+				"plugin/adm/dashb",
+				"Nm\\core\\plugins\\Admin\\dashboards.js"
+			],
+			[
+				"build",
+				"Docs\\build.bat"
+			],
+			[
+				"build.ba",
+				"Docs\\build.bat"
+			],
+			[
+				"dashlayout",
+				"Nm\\core\\components\\dashboard\\LayoutControl.js"
+			],
+			[
+				"dblayout",
+				"Nm\\core\\components\\dashboard\\DashboardLayout.js"
+			],
+			[
+				"dbconfig",
+				"Nm\\core\\components\\form\\DBConfigurePanel.js"
+			],
+			[
+				"core/dash",
+				"Nm\\core\\components\\dashboard\\AspReport.js"
+			],
+			[
+				"jgreer/bo",
+				"Nm\\developer\\jgreer\\_boilerplate.js"
+			],
+			[
+				"core/cont/wugl",
+				"Nm\\core\\controller\\Wuglet.js"
+			],
+			[
+				"repeater",
+				"Nm\\examples\\mvc\\repeater\\controller\\Repeater.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\jgreer.IPSWITCH_M\\Desktop\\good-parts\\good-parts.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
