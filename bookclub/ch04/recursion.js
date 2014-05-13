@@ -1,5 +1,3 @@
-'use strict';
-
 var factorial = function factorial(i, a) {
 	a = a || 1;
 	if (i < 2) {
