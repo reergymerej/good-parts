@@ -1,5 +1,5 @@
-var recursion = require('./ch4/recursion'),
-	scope = require('./ch4/scope');
+var ch01 = require('./example_code/ch01'),
+    ch02 = require('./example_code/ch02'),
+    ch03 = require('./example_code/ch03'),
+	ch04 = require('./example_code/ch04');
 
-// recursion.factorial(4);
-scope.foo();
